@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @hibaaslamsharif
-- 👀 I’m interested in sweb developement
 - 🌱 I’m currently learning cs
 - 💞️ I’m looking to collaborate on khadijakhan and areeba munir
  
